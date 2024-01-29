@@ -2,7 +2,9 @@
 A drag-and-drop list of Pathfinder Provisions for Pathfinder Society, Paizo's Organized Play program for Pathfinder Second Edition.
 
 Inspired by zarmstrong's PFS Consumables Compendia.
+
 Thanks to redeux for helping me with putting this together
+
 Uses a table made by volfied, because it was much prettier than I could have done
 
 **Project Licensing**
