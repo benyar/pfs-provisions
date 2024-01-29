@@ -1,0 +1,50 @@
+{
+  "id": "pfs-provisions",
+  "version": "1.0.0",
+  "title": "Pathfinder Provisions",
+  "description": "Contains a convenient drag-and-drop list of items eligible for use as Pathfinder Provisions for PF2e Organized Play.",
+  "authors": [
+    {
+      "name": "benyar",
+      "discord": "benyar",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/benyar/pfs-provisions",
+  "manifest": "",
+  "download": "",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "media": [
+    {
+      "type": "setup",
+      "caption": "Pathfinder Provisions",
+      "thumbnail": ""
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "compatibility": {
+          "minimum": "5.12.7"
+        },
+        "type": "system"
+      }
+    ]
+  },
+  "packs": [
+   {
+      "name": "journalentries",
+      "label": "Pathfinder Provisions",
+      "path": "packs/journalentries.db",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {},
+      "system": "pf2e",
+      "banner": ""
+    }
+  ]
+}
