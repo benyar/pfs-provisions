@@ -11,8 +11,8 @@
     }
   ],
   "url": "https://github.com/benyar/pfs-provisions",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/benyar/pfs-provisions/main/module.json",
+  "download": "https://github.com/benyar/pfs-provisions/zipball/master/",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
