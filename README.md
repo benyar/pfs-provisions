@@ -1,11 +1,17 @@
 # pfs-provisions
 A drag-and-drop list of Pathfinder Provisions for Pathfinder Society, Paizo's Organized Play program for Pathfinder Second Edition.
 
-Inspired by zarmstrong's PFS Consumables Compendia.
+Inspired by zarmstrong's PFS Consumables Compendia (https://github.com/zarmstrong/pfs-consumables)
 
-Thanks to redeux for helping me with putting this together
+Thanks to discord user redeux for helping me with putting this together
 
-Uses a table made by volfied, because it was much prettier than I could have done
+Uses a table made by discord user volfied, because it was much prettier than I could have done
+
+Instructions:
+Enable this module
+Go to the "Pathfinder Provisions" compendium and open it
+Right-click and import the contents
+Go to your journals tab and ensure this journal's permissions are set to "Observer"
 
 **Project Licensing**
 
