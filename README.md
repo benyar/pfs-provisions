@@ -9,9 +9,10 @@ Uses a table made by discord user volfied, because it was much prettier than I c
 
 Instructions:
 Enable this module
-Go to the "Pathfinder Provisions" compendium and open it
-Right-click and import the contents
-Go to your journals tab and ensure this journal's permissions are set to "Observer"
+
+1. Go to the "Pathfinder Provisions" compendium and open it
+2. Right-click and import the contents
+3. Go to your journals tab and ensure this journal's permissions are set to "Observer"
 
 **Project Licensing**
 
