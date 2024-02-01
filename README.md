@@ -7,6 +7,8 @@ Thanks to discord user redeux for helping me with putting this together
 
 Uses a table made by discord user volfied, because it was much prettier than I could have done
 
+The information in this module comes from the "Pathfinder Provisions" section of the Pathfinder Society 2e Guide on Lorespire:  https://lorespire.paizo.com/tiki-index.php?page=pfs2guide._.Player-Basics#Pathfinder_Provisions
+
 Instructions:
 Enable this module
 
