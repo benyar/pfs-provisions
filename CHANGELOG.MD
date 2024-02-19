@@ -1,3 +1,6 @@
+1.0.2 (18 Feb 2024)
+* Updated Readme to clarify instructions.
+
 1.0.1 (1 Feb 2024)
 * Updated Readme to include instructions, sources, and credit/thanks to others
 

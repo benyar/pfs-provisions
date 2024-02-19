@@ -12,9 +12,12 @@ The information in this module comes from the "Pathfinder Provisions" section of
 Instructions:
 Enable this module
 
-1. Go to the "Pathfinder Provisions" compendium and open it
-2. Right-click and import the contents
+0. Enable this module in your Foundry installation
+1. On the Compendiums tab, go to the "Pathfinder Provisions" compendium and open it
+2. Right-click on the Pathfinder Provisions journal and import the contents
 3. Go to your journals tab and ensure this journal's permissions are set to "Observer"
+4. Open the journal
+5. Right-click on the first line ("1. Pathfinder Provisions") and ensure the page's permissions are set to "Observer"
 
 **Project Licensing**
 
