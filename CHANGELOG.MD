@@ -1,3 +1,6 @@
+1.0.4
+* Realizing I hadn't updated version numbers in module.json.
+
 1.0.3 (22 Feb 2024)
 * Corrections to the level 3-4 tier (thank you morairtym)
 
