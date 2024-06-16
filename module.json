@@ -1,6 +1,6 @@
 {
   "id": "pfs-provisions",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "title": "Pathfinder Provisions",
   "description": "Contains a convenient drag-and-drop list of items eligible for use as Pathfinder Provisions for PF2e Organized Play.",
   "authors": [
@@ -15,7 +15,7 @@
   "download": "https://github.com/benyar/pfs-provisions/zipball/master/",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "media": [
     {
