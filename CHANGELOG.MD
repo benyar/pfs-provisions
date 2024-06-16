@@ -1,3 +1,6 @@
+1.0.5
+* Compatible with Foundry v12
+
 1.0.4
 * Realizing I hadn't updated version numbers in module.json.
 
