@@ -1,3 +1,6 @@
+1.0.7 (?)
+* Test to fix default permissions
+
 1.0.6 (4 Nov 2024)
 * Correction:  Add a star to Sound Body (3-4)
 
