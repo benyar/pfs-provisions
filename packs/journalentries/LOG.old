@@ -1,6 +1,13 @@
-2024/11/04-16:46:13.767 1cd88 Log #15: 4 ops saved to Table #16 OK
-2024/11/04-16:46:13.767 1cd88 Archiving C:\Users\yarbr\AppData\Local\FoundryVTT\Data\modules\pfs-provisions\packs\journalentries/000015.log: OK
-2024/11/04-16:46:13.767 1cd88 Table #9: 2 entries OK
-2024/11/04-16:46:13.767 1cd88 Table #16: 4 entries OK
-2024/11/04-16:46:13.768 1cd88 Archiving C:\Users\yarbr\AppData\Local\FoundryVTT\Data\modules\pfs-provisions\packs\journalentries/MANIFEST-000014: OK
-2024/11/04-16:46:13.770 1cd88 **** Repaired leveldb C:\Users\yarbr\AppData\Local\FoundryVTT\Data\modules\pfs-provisions\packs\journalentries; recovered 2 files; 11506 bytes. Some data may have been lost. ****
+2024/11/06-12:36:20.451 21cf8 Delete type=3 #1
+2024/11/06-12:37:32.321 22718 Level-0 table #23: started
+2024/11/06-12:37:32.321 22718 Level-0 table #23: 0 bytes OK
+2024/11/06-12:37:32.322 22718 Delete type=0 #21
+2024/11/06-12:37:32.323 22718 Manual compaction at level-0 from '!journal!06ihKROPmQzkUray' @ 72057594037927935 : 1 .. '!journal.pages!06ihKROPmQzkUray.y4sJ6zVFAdR4GKqV' @ 0 : 0; will stop at '!journal.pages!9felDgpUqZXJsFKz.y4sJ6zVFAdR4GKqV' @ 1 : 1
+2024/11/06-12:37:32.323 22718 Compacting 3@0 + 0@1 files
+2024/11/06-12:37:32.324 22718 Generated table #24@0: 2 keys, 5783 bytes
+2024/11/06-12:37:32.324 22718 Compacted 3@0 + 0@1 files => 5783 bytes
+2024/11/06-12:37:32.325 22718 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/06-12:37:32.325 22718 Delete type=2 #9
+2024/11/06-12:37:32.325 22718 Delete type=2 #16
+2024/11/06-12:37:32.325 22718 Delete type=2 #19
+2024/11/06-12:37:32.328 22718 Manual compaction at level-0 from '!journal.pages!9felDgpUqZXJsFKz.y4sJ6zVFAdR4GKqV' @ 1 : 1 .. '!journal.pages!06ihKROPmQzkUray.y4sJ6zVFAdR4GKqV' @ 0 : 0; will stop at (end)
