@@ -1,3 +1,6 @@
+1.0.8
+* Trying again with the perms
+
 1.0.7 (?)
 * Test to fix default permissions
 
