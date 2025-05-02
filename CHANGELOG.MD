@@ -1,3 +1,6 @@
+1.0.9
+* Verified compatibility with Foundry v13
+
 1.0.8
 * Trying again with the perms
 
