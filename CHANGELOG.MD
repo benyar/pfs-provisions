@@ -1,3 +1,6 @@
+1.0.10
+* Verified compatibility with Foundry v14
+
 1.0.9
 * Verified compatibility with Foundry v13
 
